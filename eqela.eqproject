@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Final_oct8_game
+#
+
+projectname: Final_oct8_game
+vendorid: com.mycompany
+mainmodule: com.mycompany.finaloct8game
